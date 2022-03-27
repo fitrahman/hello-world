@@ -1,2 +1,5 @@
 hi this is my first repository
 that is
+- 1
+- 2
+- 3
